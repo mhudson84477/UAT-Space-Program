@@ -1,0 +1,90 @@
+
+h1
+{color: rgb(0, 0, 0);
+  text-align: center;
+  font: 2500;
+  font-size: xx-large;
+
+  font-family: 'nasalzation';
+}
+@font-face {
+  font-family: 'nasalzation';
+  src: url(fonts/nasalization-rg.ttf);
+}
+
+header{
+font-family: "nasalzation";
+color: #ffffff;
+}
+
+p1{
+  font-family: 'nasalzation';
+  font-size: large;
+
+}
+p{
+  font-family: 'nasalzation';
+  font-size: large;
+  color: antiquewhite;
+}
+
+body
+{
+background-color: rgb(80, 79, 80);
+}
+button{
+    font-size: 20px;
+    font-style: italic;
+    font-family: "nasalzation";
+  background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    clip-path: polygon(0 25%, 50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%);
+
+}
+
+
+#countdownTimer{
+  color: antiquewhite;
+  font-size: xx-large;
+  font-family: 'nasalzation';
+}
+#credsubmit{
+  color: black;
+  font-family: "nasalzation";
+  
+}
+
+#firstname, #lastname, #idnum{
+color: white;
+background-color: black;
+border: 1px solid white;
+
+}
+
+#loadData{
+
+  border: 1px solid rgb(255, 255, 255);
+  border-collapse: collapse;
+  font-family: "nasalzation";
+  color: #ffffff;
+}
+th, td {
+  background-color: blueviolet;
+}
+
+
+
+#SeeLaunchStats{
+  font-size: 20px;
+      font-style: italic;
+      font-family: "nasalzation";
+      color: #ffffff;
+    background-color: blueviolet;
+      width: 200px;
+      height: 200px;
+      clip-path: polygon(0 25%, 50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%);
+      
+  }
+  
+  
